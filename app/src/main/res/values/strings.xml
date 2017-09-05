@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="tab_title_1">Garden</string>
+    <string name="tab_title_2">Hotel</string>
+    <string name="tab_title_3">Mall</string>
+    <string name="tab_title_4">Street</string>
+    <string name="garden_location">Located in the southern part of the city, Lal bagh Gardens can be easily reached by the local means of transport such as buses and auto rickshaws. You can hire cabs to this place as well.</string>
+    <string name="garden_location_title">Location</string>
+    <string name="garden_title">Lal Bagh</string>
+    <string name="garden_info">Lalbagh Botanical Garden is located in Bangalore and is nationally and internationally renowned centre for botanical artwork, scientific study of plants and also conservation of plants.</string>
+    <string name="hotel_location">28, Sankey Road (Opposite Bangalore Golf Club) P.O. Box 174, 560052 Bangalore, India</string>
+    <string name="hotel_title">Le Meridien</string>
+    <string name="hotel_info">Centrally located in Bangalore, Le Meridien Bangalore offers panoramic city views, an outdoor pool and a fitness centre. Only 100 m from the local golf course, the hotel has offers 24-hour room service and a 24-hour front desk. Its pool-side restaurant La Brasserie is open 24 hours and serves international buffet spreads</string>
+    <string name="street_location">Reaching the MG Road is as convenient as it can get. You can hire auto-rickshaw, ride a bus or a taxi to reach the destination. Another recently added option of transportation of Metro train is also very popular among visitors.</string>
+    <string name="street_title">MG Road</string>
+    <string name="street_info">MG Road is one of the most popular shopping and entertainment hubs of Bangalore. Swarming with people at almost all the time, you must visit the place if in Bangalore.</string>
+    <string name="mall_location">24 Vittal Mallya Road, Bengaluru 560001, India</string>
+    <string name="mall_title">UB City Mall</string>
+    <string name="mall_info">With the opening of The Collection, UB City in Bangalore, a shopping trip to Europe, which is something that most Indian luxuriates were required to do to prime up their lifestyle, has become irrelevant. The luxury retail market in India, has suddenly taken a radical turn for the better. The city\'s most famous landmark, UB City - built jointly by Dr. Vijay Mallya and the Prestige Group has seized the opulence of the Indian market in a significant way.</string>
+</resources>
