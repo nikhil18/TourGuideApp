@@ -18,31 +18,15 @@ public class TourItem {
         return mTitle;
     }
 
-    public void setTitle(String title) {
-        this.mTitle = title;
-    }
-
     public int getImage() {
         return mImage;
-    }
-
-    public void setImage(int image) {
-        this.mImage = image;
     }
 
     public String getInformation() {
         return mInformation;
     }
 
-    public void setInformation(String information) {
-        this.mInformation = information;
-    }
-
     public String getLocation() {
         return mLocation;
-    }
-
-    public void setLocation(String location) {
-        this.mLocation = location;
     }
 }

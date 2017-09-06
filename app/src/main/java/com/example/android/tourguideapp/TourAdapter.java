@@ -13,11 +13,8 @@ import java.util.ArrayList;
 
 public class TourAdapter extends ArrayAdapter<TourItem> {
 
-    private Context mContext;
-
     public TourAdapter(Context context, ArrayList<TourItem> tourItemArrayList) {
         super(context, 0, tourItemArrayList);
-        mContext = context;
     }
 
     @NonNull

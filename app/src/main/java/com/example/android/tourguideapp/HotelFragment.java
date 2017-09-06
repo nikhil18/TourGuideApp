@@ -11,10 +11,6 @@ import java.util.ArrayList;
 
 public class HotelFragment extends Fragment {
 
-    public HotelFragment() {
-        // Required empty public constructor
-    }
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
