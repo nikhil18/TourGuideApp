@@ -29,7 +29,6 @@ public class TourAdapter extends ArrayAdapter<TourItem> {
         TourItem tourItem = getItem(position);
         ViewHolder viewHolder;
 
-        ViewHolder viewHolder;
         if (convertView == null) {
             convertView = LayoutInflater.from(context).inflate(R.layout.list_item, null);
             viewHolder = new ViewHolder(convertView);
